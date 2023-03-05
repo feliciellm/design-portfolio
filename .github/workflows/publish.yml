@@ -8,9 +8,6 @@ name: Quarto Publish
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ./projects
     permissions:
       contents: write
     steps:
@@ -24,6 +21,6 @@ jobs:
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
-          path: ./projets
+          path: projets
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
