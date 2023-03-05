@@ -8,10 +8,10 @@ website:
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/feliciellm
       - icon: instagram
         href: https://twitter.com
+      - icon: github
+        href: https://github.com/feliciellm/design-portfolio
 
 format:
   html:
