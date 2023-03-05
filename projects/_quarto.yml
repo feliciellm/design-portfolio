@@ -3,7 +3,7 @@ project:
   output-dir: ../docs
 
 website:
-  title: "Mes projets"
+  title: "Félicie Lallement"
   site-url: https://feliciellm.github.io/design-portfolio/
   navbar:
     right:
