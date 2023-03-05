@@ -6,7 +6,7 @@ about:
   links:
     - icon: instagram
       text: Instagram
-      href: https://twitter.com
+      href: https://www.instagram.com/design_felicie/
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
