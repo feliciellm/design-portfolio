@@ -1,1 +1,1 @@
-Sitemap: https://github.com/feliciellm/design-portfolio/sitemap.xml
+Sitemap: https://feliciellm.github.io/design-portfolio/sitemap.xml
